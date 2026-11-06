@@ -21,7 +21,7 @@ import org.apache.commons.numbers.complex.Complex;
  * Dibuja el conjunto de Julia (z = z² + c con c = -0.745 + 0.1i) en un panel Swing,
  * coloreando cada punto según el número de iteraciones que tarda en divergir.
  *
- * @author linux
+ * @author Java Universe
  */
 public class Julia extends JPanel {
 
